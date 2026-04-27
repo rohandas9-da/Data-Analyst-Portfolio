@@ -30,8 +30,10 @@ Key Insights
 Dashboard Preview
 
 Full Dashboard
-"https://github.com/user-attachments/assets/b366febe-20f4-486e-8d61-02824adc94b5"
-"https://github.com/user-attachments/assets/7d7ed97c-ae95-4528-af3f-8e7dc4a71434"
+
+<img width="1825" height="914" alt="Screenshot 2026-04-27 203109" src="https://github.com/user-attachments/assets/92688620-a8a2-4ad5-bdf5-c71c9a91e3aa" />
+<img width="1825" height="912" alt="Screenshot 2026-04-27 203655" src="https://github.com/user-attachments/assets/fc434ec2-73ab-4ccc-8581-6040e79af860" />
+
 
 
 Discount vs Units Sold
@@ -47,5 +49,7 @@ Discount vs Units Sold
 ## 📁 Files
 - Dataset: [ecommerce_furniture_dataset_2024.csv](https://github.com/user-attachments/files/27131457/ecommerce_furniture_dataset_2024.csv)
 
-- Python Script: 
-- Power BI Dashboard: `.pbix file`
+- Python Script: E-commerce-Sales-Analysis/furniture_sales_analysis.py
+
+- Power BI Dashboard: E-commerce-Sales-Analysis/Rohan_Dashboard_E-commerce Furniture Dataset 2024.pbix
+
